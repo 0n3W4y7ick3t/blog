@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "akashiya.blog"
 languageCode = "en-us"
 theme = "poison"
 paginate = 10
@@ -27,7 +27,7 @@ menu = [
 # Links to your socials.  Comment or delete any you don't need/use. 
 github_url = "https://github.com/0n3W4y7ick3t"
 twitter_url = "https://twitter.com/sankyuugo"
-telegram_url = "https://t.me/OBraveNeworld"
+telegram_url = "https://t.me/leonowt"
 email_url = "mailto://leonsatoshi39@gmail.com"
 # youtube_url = "https://youtube.com"
 # discord_url = "https://discord.com"

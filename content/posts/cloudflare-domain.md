@@ -8,6 +8,6 @@ categories = [""]
 series = ""
 +++
 
-akashiya.moe now points to this blog!
+akashiya.blog now points to this blog!
 
 Cloudflare is truly easy to use even for someone like me at my first time buying a domain and set up DNS, stuff like that.
