@@ -1,4 +1,4 @@
-baseURL = "akashiya.blog"
+baseURL = "/"
 languageCode = "en-us"
 theme = "poison"
 paginate = 10
@@ -28,7 +28,7 @@ menu = [
 github_url = "https://github.com/0n3W4y7ick3t"
 twitter_url = "https://twitter.com/sankyuugo"
 telegram_url = "https://t.me/leonowt"
-email_url = "mailto://leonsatoshi39@gmail.com"
+email_url = "mailto:me@akashiya.blog"
 # youtube_url = "https://youtube.com"
 # discord_url = "https://discord.com"
 # facebook_url = "https://facebook.com"
