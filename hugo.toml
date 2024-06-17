@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://akashiya.blog/"
 languageCode = "en-us"
 theme = "poison"
 paginate = 10
@@ -24,9 +24,9 @@ menu = [
   {Name = "Categories", URL = "/categories/" },
 ]
 
-# Links to your socials.  Comment or delete any you don't need/use. 
+# Links to your socials.  Comment or delete any you don't need/use.
 github_url = "https://github.com/0n3W4y7ick3t"
-twitter_url = "https://twitter.com/sankyuugo"
+twitter_url = "https://twitter.com/leonaksy"
 telegram_url = "https://t.me/leonowt"
 email_url = "mailto:me@akashiya.blog"
 # youtube_url = "https://youtube.com"
