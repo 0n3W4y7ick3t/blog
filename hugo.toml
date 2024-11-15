@@ -22,9 +22,11 @@ menu = [
   {Name = "Tags", URL = "/tags/" },
   {Name = "Series", URL = "/series/" },
   {Name = "Categories", URL = "/categories/" },
+  {Name = "Dashboard", URL = "https://395.moe" },
 ]
 
 # Links to your socials.  Comment or delete any you don't need/use.
+homepage_url = "https://395.moe"
 github_url = "https://github.com/0n3W4y7ick3t"
 twitter_url = "https://twitter.com/leonaksy"
 telegram_url = "https://t.me/leonowt"
